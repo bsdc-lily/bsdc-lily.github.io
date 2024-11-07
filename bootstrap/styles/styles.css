@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    border:red solid 2px;
+    height: 100%;
+}
+
+body {
+    border: green solid 2px;
+    height: 50%;
+}
+
+ .container {
+    border: 1px solid blue;
+}
+.greenx {
+    background-color: green;
+}
+
+.row {
+    border: 1px solid green;
+    height: 200px;
+}
+
+.col{
+    border: 1px solid blue;
+}
