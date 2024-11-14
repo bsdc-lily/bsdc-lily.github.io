@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+    html,
+body {
+  height: 100%;
+}
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.rob {
+  background-color: orange;
+  border-radius: 5%;
+  text-align: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: white;
+    padding: 20px;
+}
+
+img {
+  height: 500px;
+}
