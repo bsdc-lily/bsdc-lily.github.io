@@ -14,7 +14,6 @@ h2{
   .container {
     background-color: var(--nav-color);
     font-size: 1.2rem;
-    font-family: "Merriweather Sans", sans-serif;
     height: 70px;
   }
   .navbar {
